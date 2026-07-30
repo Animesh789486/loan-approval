@@ -1,7 +1,5 @@
 # Loan Approval Prediction System
 
-![Uploading image.png…]()
-
 ## 📋 Project Overview
 
 This project analyzes a loan dataset and builds classification models to predict loan approval status. The best performing model achieved **87.1% accuracy** using Support Vector Classifier (SVC) with hyperparameter tuning.
@@ -38,9 +36,7 @@ This project analyzes a loan dataset and builds classification models to predict
 - Analyzed applicant income distribution
 - Visualized relationships between features and loan status
 - Explored credit history impact on approval
-
----
-
+- 
 ## 🤖 Models Implemented
 
 ### 1. K-Nearest Neighbors (KNN)
@@ -53,18 +49,9 @@ This project analyzes a loan dataset and builds classification models to predict
 - Best Parameters: `C=0.01`, `kernel=linear`
 - **Accuracy**: **87.10%** (Best Model)
 
-## 🚀 Results
+## 🚀 **Results**
 
 | Model | Accuracy    | Best Parameters                  |
 |-------|-------------|----------------------------------|
-| KNN   | 84.95%      | n_neighbors=8, weights=distance |
-| **SVC**   | **87.10%**  | C=0.01, kernel=linear           |
-
----
-
-## 🧪 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Animesh789486/loan-approval-prediction.git
-   cd loan-approval-prediction
+| KNN   | 84.95%      | n_neighbors=8, weights=distance  |
+| SVC   | **87.10%**  | C=0.01, kernel=linear            |
