@@ -1,5 +1,8 @@
 # Loan Approval Prediction System
 
+<img width="1305" height="731" alt="Screenshot 2026-07-30 221059" src="https://github.com/user-attachments/assets/d4c4e712-7de9-4616-aee3-3009bf37e022" />
+
+
 ## 📋 Project Overview
 
 This project analyzes a loan dataset and builds classification models to predict loan approval status. The best performing model achieved **87.1% accuracy** using Support Vector Classifier (SVC) with hyperparameter tuning.
