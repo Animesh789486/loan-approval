@@ -1,4 +1,5 @@
 # Loan Approval Prediction System
+![Uploading image.png…]()
 
 ## 📋 Project Overview
 
